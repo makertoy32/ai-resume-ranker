@@ -1,0 +1,6 @@
+streamlit
+pdfplumber
+nltk
+gensim
+scikit-learn
+numpy
